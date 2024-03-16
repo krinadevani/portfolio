@@ -1,6 +1,6 @@
 const endpoints = {
   navbar: 'profile/navbar.json',
-  routes: 'portfolio/profile/routes.json',
+  routes: 'profile/routes.json',
   home: 'portfolio/profile/home.json',
   social: 'portfolio/profile/social.json',
   about: 'portfolio/profile/about.json',
