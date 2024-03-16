@@ -7,7 +7,7 @@
     "sections": [
         {
             "title": "Home",
-            "href": "/portfolio/"
+            "href": "/"
         },
         {
             "title": "About",
@@ -23,11 +23,11 @@
         },
         {
             "title": "Experience",
-            "href": "/portfolio/experience"
+            "href": "/experience"
         },
         {
             "title": "Projects",
-            "href": "/portfolio/projects"
+            "href": "/projects"
         },
         {
             "title": "Resume",
