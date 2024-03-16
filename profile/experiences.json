@@ -1,0 +1,22 @@
+{
+    "experiences": [
+        {
+            "title": "Software Engineer",
+            "subtitle": "TatvaSoft",
+            "workType": "Full-time",
+            "workDescription": [
+                "During my time as a Software Engineer at TatvaSoft, my responsibilities included full stack development of web applications, create and manage the APIs/web services, feature development & optimizations along with the testing and client communication. I handled the development of the frontend, backend, and database management. Additionally, I worked closely with cross-functional teams, mainly the mobile team and web design team."
+            ],
+            "dateText": "04/2021 – 11/2022"
+        },
+        {
+            "title": "Full Stack Developer",
+            "subtitle": "Vaghasiya Enterprise",
+            "workType": "Full-time",
+            "workDescription": [
+                "As a developer for the company, I was involved in creating new features for the company’s desktop application. Additionally, I was part of a team that developed the company’s interview website and auction website, where my responsibilities ranged from requirement gathering to designing, developing, and testing the applications. My major focus was on developing new software architecture that was both user-friendly and efficient."
+            ],
+            "dateText": "02/2020 – 03/2021"
+        }
+    ]
+}
