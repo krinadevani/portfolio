@@ -7,7 +7,7 @@
     "sections": [
         {
             "title": "Home",
-            "href": "/"
+            "href": "/portfolio/"
         },
         {
             "title": "About",
@@ -23,15 +23,15 @@
         },
         {
             "title": "Experience",
-            "href": "/experience"
+            "href": "/portfolio/experience"
         },
         {
             "title": "Projects",
-            "href": "/projects"
+            "href": "/portfolio/projects"
         },
         {
             "title": "Resume",
-            "href": "https://drive.google.com/file/d/17Mvi6P4A2UErZsUTW1ysaBUb3ezYyaTm/view?usp=sharing",
+            "href": "https://drive.google.com/file/d/11pIQuJEyga9BAEMO7OkbbF8R2M7TCS9K/view?usp=sharing",
             "type": "link"
         }
     ]
