@@ -6,7 +6,7 @@
             "cardSubtitle":"Northeastern University - Khoury College of Computer Science, Boston",
             "cardDetailedText": "GPA - 4.00",
             "icon" : {
-                "src": "images/education/neu.png"
+                "src": "portfolio/images/education/neu.png"
             }
         },
         {
@@ -15,7 +15,7 @@
             "cardSubtitle":"Gujarat Technological University, Ahmedabad",
             "cardDetailedText": "CGPA - 8.81",
             "icon" : {
-                "src": "images/education/gtu.png"
+                "src": "portfolio/images/education/gtu.png"
             }
         },
         {
