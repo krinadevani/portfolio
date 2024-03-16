@@ -12,12 +12,12 @@
         },
         {
             "component": "Education",
-            "path": "/education",
+            "path": "/portfolio/education",
             "headerTitle": "Education"
         },
         {
             "component": "Experience",
-            "path": "/experience",
+            "path": "/portfolio/experience",
             "headerTitle": "Experience"
         },
         {
