@@ -2,7 +2,7 @@ const endpoints = {
   navbar: 'profile/navbar.json',
   routes: 'profile/routes.json',
   home: 'profile/home.json',
-  social: 'portfolio/profile/social.json',
+  social: 'profile/social.json',
   about: 'portfolio/profile/about.json',
   skills: 'portfolio/profile/skills.json',
   education: 'portfolio/profile/education.json',
