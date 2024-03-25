@@ -1,6 +1,11 @@
 {
     "sections": [
         {
+            "component": "Home",
+            "path": "/dev-portfolio",
+            "headerTitle": "Home"
+        },
+        {
             "component": "About",
             "path": "/about",
             "headerTitle": "About"
