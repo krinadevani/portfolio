@@ -1,6 +1,14 @@
 {
     "experiences": [
         {
+            "title": "Incoming SDE Co-op",
+            "subtitle": "Amazon Robotics",
+            "workType": "Full-time",
+            "workDescription": [
+                "I'll be joining Amazon Robotics as an SDE Co-op."
+            ],
+            "dateText": "07/2024 – 12/2024"
+        },{
             "title": "Software Engineer",
             "subtitle": "TatvaSoft",
             "workType": "Full-time",
