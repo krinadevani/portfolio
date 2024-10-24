@@ -1,12 +1,14 @@
 {
     "experiences": [
         {
-            "title": "Incoming SDE Co-op",
+            "title": "SDE Co-op",
             "subtitle": "Amazon Robotics",
             "workType": "Full-time",
-            "dateText": "07/2024"
-        },
-        {
+            "workDescription": [
+                "Currently, I am doing my co-op at Amazon Robotics, where I have consistently delivered results by being involved in the end-to-end software development life cycle. I ensured the on-time delivery of a time-sensitive project, while upholding the highest standards in both the codebase and design processes. I took full ownership of gathering both technical and non-technical requirements, aligning project objectives with stakeholder expectations. Additionally, I proactively expanded the existing codebase, enhancing vertical scalability and improving the overall user experience. Driven by a passion for continuous improvement, I embraced a learning mindset, diving deep into learning technologies/services such as AWS and Kotlin to further contribute to the team's success."
+            ],
+            "dateText": "07/2024 – 12/2024"
+        },{
             "title": "Software Engineer",
             "subtitle": "TatvaSoft",
             "workType": "Full-time",
