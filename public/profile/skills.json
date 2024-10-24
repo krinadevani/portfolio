@@ -76,13 +76,13 @@
                 {
                     "icon": "portfolio/images/skills/c.png",
                     "title": "C/C++",
-                    "proficiency": "NOVICE",
+                    "proficiency": "INTERMEDIATE",
                     "desc": "Used ocassionally, if required by the task at hand & have a basic understanding of this langauge"
                 },
                 {
                     "icon": "portfolio/images/skills/python.png",
                     "title": "Python",
-                    "proficiency": "BEGINNER",
+                    "proficiency": "INTERMEDIATE",
                     "desc": "Just getting started with it, implemented simple projects in an attempt to learn this language"
                 }
         ]
