@@ -1,11 +1,19 @@
 {
     "experiences": [
         {
-            "title": "SDE Co-op",
+            "title": "Graduate Teaching Assistant",
+            "subtitle": "Northeastern University",
+            "workType": "Part-time",
+            "workDescription": [
+                "As a Teaching Assistant for CS5008 – Data Structures, Algorithms, and their Applications in Computer Systems, I mentor 90+ students in core concepts of data structures, algorithms, and their applications. I assist with lab work and homework focused on implementing data structures in C and applying algorithmic strategies like divide-and-conquer and dynamic programming. Additionally, I support students in mastering multi-threading, system architecture, and the C compilation process."
+            ],
+            "dateText": "01/2025 – 04/2025"
+        },{
+            "title": "Software Development Engineer Co-op",
             "subtitle": "Amazon Robotics",
             "workType": "Full-time",
             "workDescription": [
-                "Currently, I am doing my co-op at Amazon Robotics, where I have consistently delivered results by being involved in the end-to-end software development life cycle. I ensured the on-time delivery of a time-sensitive project, while upholding the highest standards in both the codebase and design processes. I took full ownership of gathering both technical and non-technical requirements, aligning project objectives with stakeholder expectations. Additionally, I proactively expanded the existing codebase, enhancing vertical scalability and improving the overall user experience. Driven by a passion for continuous improvement, I embraced a learning mindset, diving deep into learning technologies/services such as AWS and Kotlin to further contribute to the team's success."
+                "During my tenure at Amazon Robotics, I consistently delivered results by taking full ownership of the end-to-end software development life cycle for my project. I designed high-level documentation, aligning project objectives with stakeholder expectations, and ensured the on-time delivery of time-sensitive tasks while upholding the highest standards in code quality and design. My proactive approach expanded the existing codebase, enhancing vertical scalability and improving the overall user experience. Driven by a passion for continuous improvement, I embraced a learning mindset, diving deep into learning technologies/services such as AWS and Kotlin to further contribute to the team's success."
             ],
             "dateText": "07/2024 – 12/2024"
         },{
