@@ -1,11 +1,19 @@
 {
     "experiences": [
         {
-            "title": "SDE Co-op",
+            "title": "Graduate Teaching Assistant",
+            "subtitle": "Northeastern University",
+            "workType": "Part-time",
+            "workDescription": [
+                "As a Teaching Assistant for CS5008 – Data Structures, Algorithms, and their Applications in Computer Systems, I mentor 90+ students in core concepts of data structures, algorithms, and their applications. I assist with lab work and homework focused on implementing data structures in C and applying algorithmic strategies like divide-and-conquer and dynamic programming. Additionally, I support students in mastering multi-threading, system architecture, and the C compilation process."
+            ],
+            "dateText": "01/2025 – 04/2025"
+        },{
+            "title": "Software Development Engineer Co-op",
             "subtitle": "Amazon Robotics",
             "workType": "Full-time",
             "workDescription": [
-                "Currently, I am doing my co-op at Amazon Robotics, where I have consistently delivered results by being involved in the end-to-end software development life cycle. I ensured the on-time delivery of a time-sensitive project, while upholding the highest standards in both the codebase and design processes. I took full ownership of gathering both technical and non-technical requirements, aligning project objectives with stakeholder expectations. Additionally, I proactively expanded the existing codebase, enhancing vertical scalability and improving the overall user experience. Driven by a passion for continuous improvement, I embraced a learning mindset, diving deep into learning technologies/services such as AWS and Kotlin to further contribute to the team's success."
+                "At Amazon Robotics, I consistently delivered impactful results by taking ownership of the entire software development life cycle for my project. I created high-level documentation to align objectives with stakeholder expectations and ensured timely delivery of critical tasks while maintaining exceptional code quality and design standards. My proactive contributions expanded the codebase, improved vertical scalability, and improved the overall user/developer experience. Driven by a passion for continuous improvement, I embraced a learning mindset, diving deep into learning technologies/services such as AWS and Kotlin to further contribute to the team's success."
             ],
             "dateText": "07/2024 – 12/2024"
         },{
@@ -13,7 +21,7 @@
             "subtitle": "TatvaSoft",
             "workType": "Full-time",
             "workDescription": [
-                "During my time as a Software Engineer at TatvaSoft, my responsibilities included full stack development of web applications, create and manage the APIs/web services, feature development & optimizations along with the testing and client communication. I handled the development of the frontend, backend, and database management. Additionally, I worked closely with cross-functional teams, mainly the mobile team and web design team."
+                "As a Software Engineer at TatvaSoft, I was responsible for full-stack development of web applications, including creating and managing APIs/web services, feature development, optimization, testing, and client communication. I handled frontend and backend development as well as database management. Additionally, I collaborated closely with cross-functional teams, including the mobile and web design teams, to ensure seamless integration and project success."
             ],
             "dateText": "04/2021 – 11/2022"
         },
